@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.jupyter/
+**/llm_config.py
+**/data/raw/
+**/data/processed/firm_raw/
+中小企业信贷汇报_演示版/
